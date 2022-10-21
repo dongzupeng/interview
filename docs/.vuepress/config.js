@@ -1,7 +1,7 @@
 module.exports = {
     title: '我的博客',
     theme: 'reco',
-    base: '/interview/',
+    base: '/interview',
     locales: {
         '/': {
             lang: 'zh-CN'
